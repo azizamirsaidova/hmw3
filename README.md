@@ -1,5 +1,4 @@
-# hmw3
-ML-1: Standardization, Classification & Model evaluation
+# ML-1: Standardization, Classification & Model evaluation
 
 Homework 3: Are you mad enough to sell more clothes?
 
